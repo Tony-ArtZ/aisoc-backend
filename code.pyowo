@@ -1,0 +1,4 @@
+pwease namba_one = 5
+pwease namba_towo = 3
+pwease sum = namba_one + namba_towo
+pwint(sum)
